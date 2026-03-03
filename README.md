@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hisa-tasi
 - 👀 I’m interested in data science in social science
-- 🌱 I’m currently learning Python and machine learning
-- 💞️ I’m looking to collaborate on health projects
+- 💞️ I’m looking to collaborate on healthcare projects
 - 😄 Pronouns: she/her
 
 <!---
